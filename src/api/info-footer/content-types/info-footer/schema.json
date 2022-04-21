@@ -1,0 +1,40 @@
+{
+  "kind": "singleType",
+  "collectionName": "info_footers",
+  "info": {
+    "singularName": "info-footer",
+    "pluralName": "info-footers",
+    "displayName": "InfoFooter",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "BusinessTimes": {
+      "displayName": "BusinessTimesInfo",
+      "type": "component",
+      "repeatable": true,
+      "component": "business-times.business-times-info"
+    },
+    "InformationList": {
+      "displayName": "InformationNavbar",
+      "type": "component",
+      "repeatable": true,
+      "component": "information-navbar.information-navbar"
+    },
+    "Contact": {
+      "displayName": "Contact",
+      "type": "component",
+      "repeatable": true,
+      "component": "contact.contact"
+    },
+    "Payment": {
+      "displayName": "Payment",
+      "type": "component",
+      "repeatable": true,
+      "component": "payment.payment"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_information_navbar_information_navbars",
+  "info": {
+    "displayName": "InformationNavbar",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "pageName": {
+      "type": "string"
+    }
+  }
+}

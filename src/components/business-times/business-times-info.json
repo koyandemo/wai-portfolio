@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_business_times_business_times_infos",
+  "info": {
+    "displayName": "BusinessTimesInfo",
+    "icon": "clock"
+  },
+  "options": {},
+  "attributes": {
+    "openClose": {
+      "type": "string"
+    }
+  }
+}
